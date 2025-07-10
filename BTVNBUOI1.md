@@ -1,9 +1,9 @@
-##TruongMyDuyen_Buoi1
+#TruongMyDuyen_Buoi1
 #Bai1:
-Python là ngôn ngữ thông dịch.
-- Mã nguồn được thực thi trực tiếp mà không cần qua bước biên dịch thành mã máy hoàn chỉnh như C/C++.
-- Khi chạy một chương trình Python, trình thông dịch sẽ chuyển mã nguồn thành mã bytecode, sau đó thực thi nó trong Python Virtual Machine (PVM).
-- Việc sử dụng thông dịch giúp Python dễ phát triển, gỡ lỗi và tương tác nhanh với người lập trình hơn.
+-Python là ngôn ngữ thông dịch.
++ Mã nguồn được thực thi trực tiếp mà không cần qua bước biên dịch thành mã máy hoàn chỉnh như C/C++.
++ Khi chạy một chương trình Python, trình thông dịch sẽ chuyển mã nguồn thành mã bytecode, sau đó thực thi nó trong Python Virtual Machine (PVM).
++ Việc sử dụng thông dịch giúp Python dễ phát triển, gỡ lỗi và tương tác nhanh với người lập trình hơn.
 #Bai2:
 1. Các kiểu dữ liệu trong Python
 - int: số nguyên (a = 10)
@@ -23,11 +23,11 @@ Python là ngôn ngữ thông dịch.
 - Toán tử identity: is,is not
  3. Mệnh đề điều kiện và vòng lặp
 -Câu lệnh điều kiện:
-if condition:
++ if condition:
     # thực hiện nếu điều kiện đúng
-elif another_condition:
++ elif another_condition:
     # thực hiện nếu điều kiện khác đúng
-else:
++ else:
     # thực hiện nếu tất cả điều kiện sai
 -Vòng lặp:
 + Vòng lặp for:
